@@ -1,0 +1,786 @@
+{
+  "video_path": "/Users/arnabmaity/Downloads/Valorant buy phase final edit.mp4",
+  "generated_at": "2025-09-07T05:50:02.671793",
+  "video_name": "Valorant buy phase final edit",
+  "total_commentary_segments": 39,
+  "total_frames_extracted": 116,
+  "commentary_segments": [
+    {
+      "timestamp": 0.0,
+      "text": "The buy phase is heating up! Players are making their weapon selections.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_0.00s.jpg"
+    },
+    {
+      "timestamp": 6.0,
+      "text": "Economic management is key in Valorant, and we're seeing it in action.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_6.00s.jpg"
+    },
+    {
+      "timestamp": 12.0,
+      "text": "The buy phase dynamics are really coming into play at this moment.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_12.00s.jpg"
+    },
+    {
+      "timestamp": 18.0,
+      "text": "Look at that weapon selection! Someone's going for a full buy here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_18.00s.jpg"
+    },
+    {
+      "timestamp": 24.0,
+      "text": "The buy phase is heating up! Players are making their weapon selections.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_24.00s.jpg"
+    },
+    {
+      "timestamp": 30.0,
+      "text": "The buy phase is heating up! Players are making their weapon selections.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_30.00s.jpg"
+    },
+    {
+      "timestamp": 36.0,
+      "text": "This is where game knowledge really shows - smart buy phase choices.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_36.00s.jpg"
+    },
+    {
+      "timestamp": 42.0,
+      "text": "Look at that weapon selection! Someone's going for a full buy here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_42.00s.jpg"
+    },
+    {
+      "timestamp": 48.0,
+      "text": "The team economy is being managed beautifully here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_48.00s.jpg"
+    },
+    {
+      "timestamp": 54.0,
+      "text": "We can see some strategic weapon purchases happening right now.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_54.00s.jpg"
+    },
+    {
+      "timestamp": 60.0,
+      "text": "Interesting economic decisions being made here at the 60.0 second mark.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_60.00s.jpg"
+    },
+    {
+      "timestamp": 66.0,
+      "text": "Interesting economic decisions being made here at the 66.0 second mark.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_66.00s.jpg"
+    },
+    {
+      "timestamp": 72.0,
+      "text": "The buy phase dynamics are really coming into play at this moment.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_72.00s.jpg"
+    },
+    {
+      "timestamp": 78.0,
+      "text": "Look at that weapon selection! Someone's going for a full buy here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_78.00s.jpg"
+    },
+    {
+      "timestamp": 84.0,
+      "text": "The buy phase is heating up! Players are making their weapon selections.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_84.00s.jpg"
+    },
+    {
+      "timestamp": 90.0,
+      "text": "Look at that weapon selection! Someone's going for a full buy here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_90.00s.jpg"
+    },
+    {
+      "timestamp": 96.0,
+      "text": "The buy phase is heating up! Players are making their weapon selections.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_96.00s.jpg"
+    },
+    {
+      "timestamp": 102.0,
+      "text": "Strategic thinking on display as players make their purchasing decisions.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_102.00s.jpg"
+    },
+    {
+      "timestamp": 108.0,
+      "text": "This is where game knowledge really shows - smart buy phase choices.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_108.00s.jpg"
+    },
+    {
+      "timestamp": 114.0,
+      "text": "The team economy is being managed beautifully here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_114.00s.jpg"
+    },
+    {
+      "timestamp": 120.0,
+      "text": "We can see some strategic weapon purchases happening right now.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_120.00s.jpg"
+    },
+    {
+      "timestamp": 126.0,
+      "text": "Strategic thinking on display as players make their purchasing decisions.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_126.00s.jpg"
+    },
+    {
+      "timestamp": 132.0,
+      "text": "Strategic thinking on display as players make their purchasing decisions.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_132.00s.jpg"
+    },
+    {
+      "timestamp": 138.0,
+      "text": "The buy phase is heating up! Players are making their weapon selections.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_138.00s.jpg"
+    },
+    {
+      "timestamp": 144.0,
+      "text": "The team economy is being managed beautifully here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_144.00s.jpg"
+    },
+    {
+      "timestamp": 150.0,
+      "text": "The team is coordinating their buys - this could be crucial for the upcoming round.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_150.00s.jpg"
+    },
+    {
+      "timestamp": 156.0,
+      "text": "The buy phase dynamics are really coming into play at this moment.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_156.00s.jpg"
+    },
+    {
+      "timestamp": 162.0,
+      "text": "The team economy is being managed beautifully here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_162.00s.jpg"
+    },
+    {
+      "timestamp": 168.0,
+      "text": "Strategic thinking on display as players make their purchasing decisions.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_168.00s.jpg"
+    },
+    {
+      "timestamp": 174.0,
+      "text": "The buy phase dynamics are really coming into play at this moment.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_174.00s.jpg"
+    },
+    {
+      "timestamp": 180.0,
+      "text": "The team economy is being managed beautifully here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_180.00s.jpg"
+    },
+    {
+      "timestamp": 186.0,
+      "text": "Economic management is key in Valorant, and we're seeing it in action.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_186.00s.jpg"
+    },
+    {
+      "timestamp": 192.0,
+      "text": "Interesting economic decisions being made here at the 192.0 second mark.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_192.00s.jpg"
+    },
+    {
+      "timestamp": 198.0,
+      "text": "The buy phase is heating up! Players are making their weapon selections.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_198.00s.jpg"
+    },
+    {
+      "timestamp": 204.0,
+      "text": "Strategic thinking on display as players make their purchasing decisions.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_204.00s.jpg"
+    },
+    {
+      "timestamp": 210.0,
+      "text": "The team economy is being managed beautifully here.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_210.00s.jpg"
+    },
+    {
+      "timestamp": 216.0,
+      "text": "Interesting economic decisions being made here at the 216.0 second mark.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_216.00s.jpg"
+    },
+    {
+      "timestamp": 222.0,
+      "text": "We can see some strategic weapon purchases happening right now.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_222.00s.jpg"
+    },
+    {
+      "timestamp": 228.0,
+      "text": "The team is coordinating their buys - this could be crucial for the upcoming round.",
+      "frame_path": "video_commentary_results/extracted_frames/frame_228.00s.jpg"
+    }
+  ],
+  "extracted_frames": [
+    {
+      "path": "video_commentary_results/extracted_frames/frame_0.00s.jpg",
+      "timestamp": 0.0,
+      "frame_number": 0
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_2.00s.jpg",
+      "timestamp": 2.0,
+      "frame_number": 120
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_4.00s.jpg",
+      "timestamp": 4.0,
+      "frame_number": 240
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_6.00s.jpg",
+      "timestamp": 6.0,
+      "frame_number": 360
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_8.00s.jpg",
+      "timestamp": 8.0,
+      "frame_number": 480
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_10.00s.jpg",
+      "timestamp": 10.0,
+      "frame_number": 600
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_12.00s.jpg",
+      "timestamp": 12.0,
+      "frame_number": 720
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_14.00s.jpg",
+      "timestamp": 14.0,
+      "frame_number": 840
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_16.00s.jpg",
+      "timestamp": 16.0,
+      "frame_number": 960
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_18.00s.jpg",
+      "timestamp": 18.0,
+      "frame_number": 1080
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_20.00s.jpg",
+      "timestamp": 20.0,
+      "frame_number": 1200
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_22.00s.jpg",
+      "timestamp": 22.0,
+      "frame_number": 1320
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_24.00s.jpg",
+      "timestamp": 24.0,
+      "frame_number": 1440
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_26.00s.jpg",
+      "timestamp": 26.0,
+      "frame_number": 1560
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_28.00s.jpg",
+      "timestamp": 28.0,
+      "frame_number": 1680
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_30.00s.jpg",
+      "timestamp": 30.0,
+      "frame_number": 1800
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_32.00s.jpg",
+      "timestamp": 32.0,
+      "frame_number": 1920
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_34.00s.jpg",
+      "timestamp": 34.0,
+      "frame_number": 2040
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_36.00s.jpg",
+      "timestamp": 36.0,
+      "frame_number": 2160
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_38.00s.jpg",
+      "timestamp": 38.0,
+      "frame_number": 2280
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_40.00s.jpg",
+      "timestamp": 40.0,
+      "frame_number": 2400
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_42.00s.jpg",
+      "timestamp": 42.0,
+      "frame_number": 2520
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_44.00s.jpg",
+      "timestamp": 44.0,
+      "frame_number": 2640
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_46.00s.jpg",
+      "timestamp": 46.0,
+      "frame_number": 2760
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_48.00s.jpg",
+      "timestamp": 48.0,
+      "frame_number": 2880
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_50.00s.jpg",
+      "timestamp": 50.0,
+      "frame_number": 3000
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_52.00s.jpg",
+      "timestamp": 52.0,
+      "frame_number": 3120
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_54.00s.jpg",
+      "timestamp": 54.0,
+      "frame_number": 3240
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_56.00s.jpg",
+      "timestamp": 56.0,
+      "frame_number": 3360
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_58.00s.jpg",
+      "timestamp": 58.0,
+      "frame_number": 3480
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_60.00s.jpg",
+      "timestamp": 60.0,
+      "frame_number": 3600
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_62.00s.jpg",
+      "timestamp": 62.0,
+      "frame_number": 3720
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_64.00s.jpg",
+      "timestamp": 64.0,
+      "frame_number": 3840
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_66.00s.jpg",
+      "timestamp": 66.0,
+      "frame_number": 3960
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_68.00s.jpg",
+      "timestamp": 68.0,
+      "frame_number": 4080
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_70.00s.jpg",
+      "timestamp": 70.0,
+      "frame_number": 4200
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_72.00s.jpg",
+      "timestamp": 72.0,
+      "frame_number": 4320
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_74.00s.jpg",
+      "timestamp": 74.0,
+      "frame_number": 4440
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_76.00s.jpg",
+      "timestamp": 76.0,
+      "frame_number": 4560
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_78.00s.jpg",
+      "timestamp": 78.0,
+      "frame_number": 4680
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_80.00s.jpg",
+      "timestamp": 80.0,
+      "frame_number": 4800
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_82.00s.jpg",
+      "timestamp": 82.0,
+      "frame_number": 4920
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_84.00s.jpg",
+      "timestamp": 84.0,
+      "frame_number": 5040
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_86.00s.jpg",
+      "timestamp": 86.0,
+      "frame_number": 5160
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_88.00s.jpg",
+      "timestamp": 88.0,
+      "frame_number": 5280
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_90.00s.jpg",
+      "timestamp": 90.0,
+      "frame_number": 5400
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_92.00s.jpg",
+      "timestamp": 92.0,
+      "frame_number": 5520
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_94.00s.jpg",
+      "timestamp": 94.0,
+      "frame_number": 5640
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_96.00s.jpg",
+      "timestamp": 96.0,
+      "frame_number": 5760
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_98.00s.jpg",
+      "timestamp": 98.0,
+      "frame_number": 5880
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_100.00s.jpg",
+      "timestamp": 100.0,
+      "frame_number": 6000
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_102.00s.jpg",
+      "timestamp": 102.0,
+      "frame_number": 6120
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_104.00s.jpg",
+      "timestamp": 104.0,
+      "frame_number": 6240
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_106.00s.jpg",
+      "timestamp": 106.0,
+      "frame_number": 6360
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_108.00s.jpg",
+      "timestamp": 108.0,
+      "frame_number": 6480
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_110.00s.jpg",
+      "timestamp": 110.0,
+      "frame_number": 6600
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_112.00s.jpg",
+      "timestamp": 112.0,
+      "frame_number": 6720
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_114.00s.jpg",
+      "timestamp": 114.0,
+      "frame_number": 6840
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_116.00s.jpg",
+      "timestamp": 116.0,
+      "frame_number": 6960
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_118.00s.jpg",
+      "timestamp": 118.0,
+      "frame_number": 7080
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_120.00s.jpg",
+      "timestamp": 120.0,
+      "frame_number": 7200
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_122.00s.jpg",
+      "timestamp": 122.0,
+      "frame_number": 7320
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_124.00s.jpg",
+      "timestamp": 124.0,
+      "frame_number": 7440
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_126.00s.jpg",
+      "timestamp": 126.0,
+      "frame_number": 7560
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_128.00s.jpg",
+      "timestamp": 128.0,
+      "frame_number": 7680
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_130.00s.jpg",
+      "timestamp": 130.0,
+      "frame_number": 7800
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_132.00s.jpg",
+      "timestamp": 132.0,
+      "frame_number": 7920
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_134.00s.jpg",
+      "timestamp": 134.0,
+      "frame_number": 8040
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_136.00s.jpg",
+      "timestamp": 136.0,
+      "frame_number": 8160
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_138.00s.jpg",
+      "timestamp": 138.0,
+      "frame_number": 8280
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_140.00s.jpg",
+      "timestamp": 140.0,
+      "frame_number": 8400
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_142.00s.jpg",
+      "timestamp": 142.0,
+      "frame_number": 8520
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_144.00s.jpg",
+      "timestamp": 144.0,
+      "frame_number": 8640
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_146.00s.jpg",
+      "timestamp": 146.0,
+      "frame_number": 8760
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_148.00s.jpg",
+      "timestamp": 148.0,
+      "frame_number": 8880
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_150.00s.jpg",
+      "timestamp": 150.0,
+      "frame_number": 9000
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_152.00s.jpg",
+      "timestamp": 152.0,
+      "frame_number": 9120
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_154.00s.jpg",
+      "timestamp": 154.0,
+      "frame_number": 9240
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_156.00s.jpg",
+      "timestamp": 156.0,
+      "frame_number": 9360
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_158.00s.jpg",
+      "timestamp": 158.0,
+      "frame_number": 9480
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_160.00s.jpg",
+      "timestamp": 160.0,
+      "frame_number": 9600
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_162.00s.jpg",
+      "timestamp": 162.0,
+      "frame_number": 9720
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_164.00s.jpg",
+      "timestamp": 164.0,
+      "frame_number": 9840
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_166.00s.jpg",
+      "timestamp": 166.0,
+      "frame_number": 9960
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_168.00s.jpg",
+      "timestamp": 168.0,
+      "frame_number": 10080
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_170.00s.jpg",
+      "timestamp": 170.0,
+      "frame_number": 10200
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_172.00s.jpg",
+      "timestamp": 172.0,
+      "frame_number": 10320
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_174.00s.jpg",
+      "timestamp": 174.0,
+      "frame_number": 10440
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_176.00s.jpg",
+      "timestamp": 176.0,
+      "frame_number": 10560
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_178.00s.jpg",
+      "timestamp": 178.0,
+      "frame_number": 10680
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_180.00s.jpg",
+      "timestamp": 180.0,
+      "frame_number": 10800
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_182.00s.jpg",
+      "timestamp": 182.0,
+      "frame_number": 10920
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_184.00s.jpg",
+      "timestamp": 184.0,
+      "frame_number": 11040
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_186.00s.jpg",
+      "timestamp": 186.0,
+      "frame_number": 11160
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_188.00s.jpg",
+      "timestamp": 188.0,
+      "frame_number": 11280
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_190.00s.jpg",
+      "timestamp": 190.0,
+      "frame_number": 11400
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_192.00s.jpg",
+      "timestamp": 192.0,
+      "frame_number": 11520
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_194.00s.jpg",
+      "timestamp": 194.0,
+      "frame_number": 11640
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_196.00s.jpg",
+      "timestamp": 196.0,
+      "frame_number": 11760
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_198.00s.jpg",
+      "timestamp": 198.0,
+      "frame_number": 11880
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_200.00s.jpg",
+      "timestamp": 200.0,
+      "frame_number": 12000
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_202.00s.jpg",
+      "timestamp": 202.0,
+      "frame_number": 12120
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_204.00s.jpg",
+      "timestamp": 204.0,
+      "frame_number": 12240
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_206.00s.jpg",
+      "timestamp": 206.0,
+      "frame_number": 12360
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_208.00s.jpg",
+      "timestamp": 208.0,
+      "frame_number": 12480
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_210.00s.jpg",
+      "timestamp": 210.0,
+      "frame_number": 12600
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_212.00s.jpg",
+      "timestamp": 212.0,
+      "frame_number": 12720
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_214.00s.jpg",
+      "timestamp": 214.0,
+      "frame_number": 12840
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_216.00s.jpg",
+      "timestamp": 216.0,
+      "frame_number": 12960
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_218.00s.jpg",
+      "timestamp": 218.0,
+      "frame_number": 13080
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_220.00s.jpg",
+      "timestamp": 220.0,
+      "frame_number": 13200
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_222.00s.jpg",
+      "timestamp": 222.0,
+      "frame_number": 13320
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_224.00s.jpg",
+      "timestamp": 224.0,
+      "frame_number": 13440
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_226.00s.jpg",
+      "timestamp": 226.0,
+      "frame_number": 13560
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_228.00s.jpg",
+      "timestamp": 228.0,
+      "frame_number": 13680
+    },
+    {
+      "path": "video_commentary_results/extracted_frames/frame_230.00s.jpg",
+      "timestamp": 230.0,
+      "frame_number": 13800
+    }
+  ]
+}

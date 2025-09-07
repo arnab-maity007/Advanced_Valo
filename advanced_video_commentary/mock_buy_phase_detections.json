@@ -1,0 +1,1311 @@
+[
+  {
+    "timestamp": 0.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0000_0.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 3.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0003_3.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 6.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0006_6.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 9.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0009_9.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 12.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0012_12.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 15.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0015_15.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 18.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0018_18.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 21.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0021_21.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.86,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 24.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0024_24.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.89,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 27.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0027_27.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9199999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 30.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0030_30.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 33.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0033_33.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 36.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0036_36.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 39.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0039_39.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 42.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0042_42.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 45.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0045_45.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 48.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0048_48.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 51.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0051_51.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.86,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 54.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0054_54.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.89,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 57.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0057_57.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9199999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 60.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0060_60.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 63.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0063_63.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 66.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0066_66.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 69.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0069_69.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 72.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0072_72.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 75.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0075_75.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 78.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0078_78.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 81.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0081_81.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.86,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 84.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0084_84.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.89,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 87.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0087_87.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9199999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 90.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0090_90.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 93.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0093_93.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 96.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0096_96.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 99.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0099_99.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 102.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0102_102.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 105.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0105_105.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 108.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0108_108.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 111.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0111_111.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.86,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 114.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0114_114.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.89,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 117.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0117_117.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9199999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 120.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0120_120.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 123.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0123_123.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 126.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0126_126.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 129.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0129_129.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 132.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0132_132.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 135.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0135_135.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 138.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0138_138.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 141.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0141_141.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.86,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 144.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0144_144.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.89,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 147.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0147_147.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9199999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 150.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0150_150.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 153.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0153_153.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 156.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0156_156.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 159.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0159_159.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 162.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0162_162.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 165.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0165_165.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 168.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0168_168.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 171.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0171_171.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.86,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 174.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0174_174.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.89,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 177.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0177_177.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9199999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 180.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0180_180.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 183.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0183_183.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 186.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0186_186.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 189.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0189_189.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 192.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0192_192.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 195.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0195_195.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 198.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0198_198.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 201.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0201_201.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.86,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 204.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0204_204.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.89,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 207.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0207_207.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9199999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 210.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0210_210.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.85,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Vandal TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 213.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0213_213.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.88,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Ghost Player1"
+      }
+    ]
+  },
+  {
+    "timestamp": 216.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0216_216.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9099999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Judge ScreaM"
+      }
+    ]
+  },
+  {
+    "timestamp": 219.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0219_219.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.94,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Operator Player2"
+      }
+    ]
+  },
+  {
+    "timestamp": 222.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0222_222.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.87,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Spectre Shroud"
+      }
+    ]
+  },
+  {
+    "timestamp": 225.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0225_225.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Phantom TenZ"
+      }
+    ]
+  },
+  {
+    "timestamp": 228.0,
+    "frame_path": "advanced_video_commentary/frames/frame_0228_228.00s.jpg",
+    "detections": [
+      {
+        "class": "event-box",
+        "confidence": 0.9299999999999999,
+        "bbox": [
+          100,
+          100,
+          200,
+          150
+        ],
+        "mock_ocr_text": "OWNED Sheriff Player1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "video_path": "/Users/arnabmaity/Downloads/Valorant buy phase final edit.mp4",
+  "video_name": "Valorant buy phase final edit",
+  "generated_at": "2025-09-07T07:35:24.233635",
+  "voice_enabled": true,
+  "total_commentary_segments": 20,
+  "total_audio_files": 20,
+  "commentary_segments": [
+    {
+      "timestamp": 0.0,
+      "text": "Team coordination is key as they allocate their resources wisely.",
+      "style": "play_by_play",
+      "frame_path": "voice_commentary_output/frames/frame_0.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_0.00s.mp3"
+    },
+    {
+      "timestamp": 12.0,
+      "text": "The meta considerations are clearly influencing their buy choices.",
+      "style": "analysis",
+      "frame_path": "voice_commentary_output/frames/frame_12.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_12.00s.mp3"
+    },
+    {
+      "timestamp": 24.0,
+      "text": "This is where the magic happens - the buy phase that could change everything!",
+      "style": "excitement",
+      "frame_path": "voice_commentary_output/frames/frame_24.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_24.00s.mp3"
+    },
+    {
+      "timestamp": 36.0,
+      "text": "For newer players watching, notice how they balance weapons and utility.",
+      "style": "educational",
+      "frame_path": "voice_commentary_output/frames/frame_36.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_36.00s.mp3"
+    },
+    {
+      "timestamp": 48.0,
+      "text": "Smart economic management on display as they plan their loadouts.",
+      "style": "play_by_play",
+      "frame_path": "voice_commentary_output/frames/frame_48.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_48.00s.mp3"
+    },
+    {
+      "timestamp": 60.0,
+      "text": "This buy strategy shows excellent understanding of the current game state.",
+      "style": "analysis",
+      "frame_path": "voice_commentary_output/frames/frame_60.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_60.00s.mp3"
+    },
+    {
+      "timestamp": 72.0,
+      "text": "The crowd can feel the energy as these crucial decisions unfold!",
+      "style": "excitement",
+      "frame_path": "voice_commentary_output/frames/frame_72.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_72.00s.mp3"
+    },
+    {
+      "timestamp": 84.0,
+      "text": "The thought process behind each purchase teaches us about team coordination.",
+      "style": "educational",
+      "frame_path": "voice_commentary_output/frames/frame_84.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_84.00s.mp3"
+    },
+    {
+      "timestamp": 96.0,
+      "text": "Tactical considerations are paramount during this buy phase.",
+      "style": "play_by_play",
+      "frame_path": "voice_commentary_output/frames/frame_96.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_96.00s.mp3"
+    },
+    {
+      "timestamp": 108.0,
+      "text": "The economic flow of this team has been impressive throughout the match.",
+      "style": "analysis",
+      "frame_path": "voice_commentary_output/frames/frame_108.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_108.00s.mp3"
+    },
+    {
+      "timestamp": 120.0,
+      "text": "The anticipation is building as they lock in these weapon selections!",
+      "style": "excitement",
+      "frame_path": "voice_commentary_output/frames/frame_120.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_120.00s.mp3"
+    },
+    {
+      "timestamp": 132.0,
+      "text": "For newer players watching, notice how they balance weapons and utility.",
+      "style": "educational",
+      "frame_path": "voice_commentary_output/frames/frame_132.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_132.00s.mp3"
+    },
+    {
+      "timestamp": 144.0,
+      "text": "Players are weighing their options carefully - every credit counts.",
+      "style": "play_by_play",
+      "frame_path": "voice_commentary_output/frames/frame_144.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_144.00s.mp3"
+    },
+    {
+      "timestamp": 156.0,
+      "text": "These economic decisions reflect a well-coordinated team strategy.",
+      "style": "analysis",
+      "frame_path": "voice_commentary_output/frames/frame_156.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_156.00s.mp3"
+    },
+    {
+      "timestamp": 168.0,
+      "text": "The anticipation is building as they lock in these weapon selections!",
+      "style": "excitement",
+      "frame_path": "voice_commentary_output/frames/frame_168.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_168.00s.mp3"
+    },
+    {
+      "timestamp": 180.0,
+      "text": "The thought process behind each purchase teaches us about team coordination.",
+      "style": "educational",
+      "frame_path": "voice_commentary_output/frames/frame_180.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_180.00s.mp3"
+    },
+    {
+      "timestamp": 192.0,
+      "text": "The team is coordinating their purchases for maximum impact.",
+      "style": "play_by_play",
+      "frame_path": "voice_commentary_output/frames/frame_192.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_192.00s.mp3"
+    },
+    {
+      "timestamp": 204.0,
+      "text": "Strategic depth on full display during this purchasing phase.",
+      "style": "analysis",
+      "frame_path": "voice_commentary_output/frames/frame_204.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_204.00s.mp3"
+    },
+    {
+      "timestamp": 216.0,
+      "text": "The intensity is palpable during this critical buy phase! As we approach the later stages, the stakes are higher.",
+      "style": "excitement",
+      "frame_path": "voice_commentary_output/frames/frame_216.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_216.00s.mp3"
+    },
+    {
+      "timestamp": 228.0,
+      "text": "Understanding these buy patterns is crucial for improving your gameplay. As we approach the later stages, the stakes are higher.",
+      "style": "educational",
+      "frame_path": "voice_commentary_output/frames/frame_228.00s.jpg",
+      "audio_file": "voice_commentary_output/audio_commentary/commentary_228.00s.mp3"
+    }
+  ],
+  "audio_files": [
+    "voice_commentary_output/audio_commentary/commentary_0.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_12.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_24.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_36.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_48.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_60.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_72.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_84.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_96.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_108.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_120.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_132.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_144.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_156.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_168.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_180.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_192.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_204.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_216.00s.mp3",
+    "voice_commentary_output/audio_commentary/commentary_228.00s.mp3"
+  ]
+}

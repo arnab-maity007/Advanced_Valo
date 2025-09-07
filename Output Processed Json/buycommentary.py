@@ -14,7 +14,7 @@ from dataclasses import dataclass
 from enum import Enum
 import threading
 import logging
-from elevenlabs.client import ElevenLabs
+from elevenlabs.client import ElevenLabs #the libraries used to get text to speach 
 
 # Configure logging
 logging.basicConfig(
